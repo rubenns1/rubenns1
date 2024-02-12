@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rubenns1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou Rubens Gomes (@rubenNs1)
+- 👀 Eu tenho interesse em aprender e desenvolver sistemas/softwares em equipe.
+- 🌱 Tenho conhecimento em PHP, Java, C#, SQL e atualmente também venho estudando a linguagem Rust.
+- 💞️ Procuro colaborar com qualquer desefio que surgir.
+- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/rubenns1
 
 <!---
 rubenns1/rubenns1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
