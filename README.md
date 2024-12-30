@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Rubens Gomes (@rubenNs1)
 - 👀 Eu tenho interesse em aprender e desenvolver sistemas/softwares em equipe.
-- 🌱 Tenho conhecimento em PHP, Java, C#, SQL e atualmente também venho estudando a linguagem Rust.
-- 💞️ Procuro colaborar com qualquer desefio que surgir.
+- 🌱 Tenho conhecimentos em PHP, Java, C# e SQL.
+- 💞️ Procuro colaborar com qualquer desafio que surgir.
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/rubenns1
 
 <!---
